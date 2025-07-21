@@ -32,7 +32,7 @@ It holds ETH for optional burn matching, and is the only entity authorized to ex
 - No contract upgrade authority is held  
 - Mint authority for $BRRR is disabled   
 - This Safe address is referenced in:
-  - GitHub repo (https://github.com/decent-labs-xyz/decent-lab)
+  - GitHub repo (https://github.com/decent-lab-xyz/decent-lab)
   - printergoesbrrr.xyz (https://printergoesbrrr.xyz)
   - On-chain registry and burn logs
 
