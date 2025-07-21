@@ -12,6 +12,6 @@ A deflationary protest token launched by Decent Lab.
 
 ## Links
 
-- [GitHub Repo](https://github.com/decent-lab-xyz/printergoesbrrr)
+- [GitHub Repo](https://github.com/decent-lab-xyz
 - [Site](https://printergoesbrrr.xyz)
 - [Burn log](https://github.com/decent-labs-xyz/printergoesbrrr/blob/main/burn-log.md)
