@@ -1,6 +1,6 @@
 # Studio Ethos
 
-Decent Lab explores the absurdities of modern capital through tokens that are transparent by design and self-destructive by nature.
+Decent Lab explores the absurdities of modern capital through tokens that are transparent by design and self-destructive by nature.  The more absurd the system, the more we burn.
 
 We operate with the following principles:
 
@@ -10,4 +10,6 @@ We operate with the following principles:
 - Every Safe address is known
 - ENS: [`decentlab.eth`](https://app.ens.domains/name/decentlab.eth)
 
-Our mission is not to dominate markets — it’s to reveal them. With irony, fire, and receipts.
+Our mission isn’t to dominate markets — only to reflect them, with irony, fire, and receipts.
+
+No roadmap. No promises. Just burns and memes.
