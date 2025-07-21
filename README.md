@@ -21,4 +21,4 @@ No team tokens. No unlocks. Just burns, multisigs, and GitHub receipts.
 
 - [`decentlab.eth`](https://app.ens.domains/name/decentlab.eth)
 - [`burnadmin.eth`](https://app.ens.domains/name/burnadmin.eth)
-- [`proofsigner.eth`](https://app.ens.domains/name/proofsigner.eth)
+- [`proofsign.eth`](https://app.ens.domains/name/proofsign.eth)
