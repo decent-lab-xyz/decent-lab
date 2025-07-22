@@ -6,7 +6,7 @@ It was not designed to pump — it was designed to disappear.
 ## 🔥 Overview
 
 - Fixed supply: 35 trillion  
-- 11T burned at launch  
+- 10T burned at launch  
 - LP burned  
 - Mint authority disabled or multisig-controlled  
 - Lives on Solana
