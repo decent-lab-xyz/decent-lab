@@ -2,7 +2,7 @@
 
 | Date       | Amount Burned | TX Hash | Description |
 |------------|----------------|---------|-------------|
-| YYYY-MM-DD | 11T            | [0x...] | Initial launch burn  
+| YYYY-MM-DD | 10T            | [0x...] | Initial launch burn  
 | YYYY-MM-DD | TBD            | [0x...] | Monthly burn #1  
 | TBD        | Dynamic        | [0x...] | Burn Reserve trigger — debt milestone
 
