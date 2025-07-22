@@ -6,7 +6,7 @@ No team tokens. No unlocks. Just burns, multisigs, and GitHub receipts.
 
 ## Projects
 
-- [$BRRR – Printer Goes Brrr](https://github.com/decent-lab-xyz/projects/printergoesbrrr)
+- [$BRRR – Printer Goes Brrr](https://github.com/decent-lab-xyz/projects/printergoesbrrr.md)
 
 ## Safes
 
