@@ -6,7 +6,7 @@ No team tokens. No unlocks. Just burns, multisigs, and GitHub receipts.
 
 ## Projects
 
-- [$BRRR – Printer Goes Brrr](https://github.com/decent-labs-xyz/printergoesbrrr)
+- [$BRRR – Printer Goes Brrr](https://github.com/decent-lab-xyz/printergoesbrrr)
 
 ## Safes
 
@@ -15,7 +15,7 @@ No team tokens. No unlocks. Just burns, multisigs, and GitHub receipts.
 ## Domains
 
 - [printergoesbrrr.xyz](https://printergoesbrrr.xyz)
-- [decent-labs.xyz](https://decent-labs.xyz)
+- [decent-labs.xyz](https://decent-lab.xyz)
 
 ## ENS
 
