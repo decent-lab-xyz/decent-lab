@@ -1,134 +1,138 @@
-# BRRR: When the Printer Goes BRRR... We Burn
+📣 Manifesto
+BRRR: When the Printer Goes BRRR… We Burn
+They print. We burn.
+A trillion dollars used to mean something.
+Now it’s just Tuesday.
 
-## Overview
+So we created $BRRR: a token that embraces monetary absurdity by doing what no central bank dares — setting itself on fire.
 
-**$BRRR** is a meme token launched on Solana with a singular purpose:  
-To reflect the absurdity of modern monetary policy by **burning tokens** in response to increases in federal debt and the devaluation of the dollar.
+They create value with a keystroke.
+We destroy it with a burn.
+They inflate. We incinerate.
+They pretend it's working.
+We pretend burning fixes it.
 
-- U.S. federal debt is over **$35 trillion**, and forecast to exceed **$55 trillion by 2035**
-- Since 2020, debt has already increased by **$10 trillion**
-- The U.S. now runs an **annual deficit of $1.9 trillion**
+🧨 What is $BRRR?
+A meme token on Solana with one purpose:
+to burn tokens every time fiat goes feral.
 
-Inspired by economic satire and internet culture, BRRR is **not an investment**, financial product, or promise of profit. It is a **deflationary, fair-launch meme token** with:
+We don’t offer utility.
+We offer ritualized destruction.
 
-- No presale  
-- No team rewards  
-- No unlocks  
+Launched with no presale, no unlocks, no team, and no plan.
+Just 35 trillion BRRR — one for every U.S. dollar of federal debt.
+The burn has already begun.
 
----
+🔥 The Burn Protocol
+If they print it, we burn it. If you burn it, we match it.
 
-## Purpose
+Monthly Burns
+BRRR is burned each month based on fiscal and monetary absurdity
 
-BRRR exists to make a mockery of fiat inflation and unchecked debt expansion.
+The more absurd, the more fire.
 
-- At launch, **10T BRRR were burned** to match post-2020 debt growth  
-- As debt continues to rise, additional reserves are set to be burned
-- The protocol matches every **community burn 1:1**  
-- Final burn target: only **1 token will remain**
+Debt ceiling raised? Stimulus package announced? Deficit increases?
 
-> They borrow from tomorrow.  
-> We burn today.
+🔥 You know what happens
 
----
+Community Burns
+You burn. The protocol burns 1:1 from the match pool
 
-## Allocation Logic
+This is the only path to reach 1 final token remaining
 
-- **35T BRRR** matches **$35T debt**
-- **10T burned at launch** to match 2020–2024 federal debt increase
-- **158B/month** burned going forward (based on $1.9T annual overspend)
 
-Additional burns triggered by:
-- Debt ceiling increases  
-- CBO debt forecast revisions  
-- Stimulus packages or fiscal gimmicks
-- Other fiscal and monetary absurdity
+💀 The Final Token
+Eventually, just one BRRR will remain.
+One token to symbolise the absurdity.
 
-Community burns are encouraged — if it smells like fiat madness, burn it.
+Do you hold it?
+Do you burn it?
+What happens next?
 
----
 
-## 🔥 Key Features
+🪙 Tokenomics
+Allocation	Amount	Purpose
+Total Supply	35T	Mirrors $35T U.S. federal debt
+Initial Burn	10T	Matches debt increase since 2020
+Burn Reserve	21.8T	For monthly & event-based burns
+Liquidity (burned)	1T	Permanent LP
+Airdrop	1T + 1 token	Community distribution + final BRRR
+Community Match Pool	1T	Matches user burns 1:1 — this is the path to 1 remaining token
 
-- **Fair Launch**: No presale, no VC, no team allocation
-- **Deflationary Mechanics**:
-  - **Total Supply**: 35T BRRR  
-  - **Initial Burn**: 10T at launch  
-  - **Remaining Allocation**:
-    - 1T to LP (burned)  
-    - 1T + 1 to airdrop  
-    - 0.1T for ETH/Base/CEX reserve  
-    - 1.1T to match community burns  
-    - 21.8T in burn reserve  
+🔑 Core Mechanics
+No presale
 
-- **Burn Triggers**: Based on real-world debt increases  
-- **0% Tax**: No buy/sell/transfer fees  
-- **Renounced Contract**: No control, no mint, no rug  
-- No team tokens  
-- LP is burned  
-- Minting disabled   
-- Supply destruction > speculation  
-- Every burn is logged
----
+No VC
 
-## 🧱 Community Ethos
+No unlocks
 
-- Burn logic is fixed and executed by multisig  
-- Community-led engagement, memes, and coordination  
-- No voting, no DAO politics — just symbolic action
+No team tokens
 
----
+0% tax
 
-## 🌐 Chain Choice
+Minting disabled
 
-BRRR is on Solana for:
-- Ultra-low gas costs (especially for frequent burns)  
-- Fast settlement  
-- Meme culture alignment  
-- Easy integrations with Jupiter, Raydium, Phantom  
+Contract renounced
 
----
+LP burned
 
-## 🪞 Meme Utility
+Multisig only executes protocol burns
 
-BRRR isn’t useful in the traditional sense.
+No treasury. No control. No recovery.
 
-No yield. No staking. No promise of utility.  
-Its utility is **cultural** — it’s a meme, a protest, and an on-chain joke.
+🌐 Why Solana?
+Gas costs so low, you’ll burn without thinking
 
-> And the more absurd things get, the more we burn.
+Lightning-fast for degenerate rituals
 
----
+Meme-aligned ecosystem
 
-## 🔥 Burn Strategy
+Plug-and-play with Jupiter, Raydium, Phantom
 
-**Timing**
-- Monthly burns aligned with deficit cycle or key announcements
-- Event-based burns on debt forecasts, policy moves, or “print moments”
+Also, launching this on Ethereum would’ve doubled the U.S. deficit.
 
-**Pacing**
-- 22.5T burn reserve designed to last 1–2 years  
-- 1.1T community match pool for 1:1 matched airdrop burns  
-- Final design leaves **1 BRRR** as a permanent meme monument
+🪞 Use Case
+None.
+There is no point. That is the point.
 
----
+No yield. No staking. No value accrual.
+$BRRR exists purely to vanish on-chain — faster than your purchasing power.
 
-## 💀 The Final Token
+It’s fiscal fire as performance art.
 
-When the last reserve is burned, one BRRR will remain.  
-The final survivor of a meme-fueled war on fiscal irresponsibility.  
-A timestamped tombstone of what they took from the future.
+🧱 Ethos
+No governance
 
-Will you be the one to hold it?  
-Will you have the meme, the selflessness, the 🔥balls🔥 to burn it?
+No DAO
 
----
+No treasury proposals
 
-## ⚠️ Disclaimers
+No votes to ignore
 
-BRRR is not a security.  
-It was not sold or promoted with expectation of profit.  
-There is no roadmap, no company, and no central control.
-BRRR is satire, commentary, and protest — expressed through burn.
+Just burns, memes, and the shared delusion that this means something.
 
-If you buy BRRR, you're buying a joke.  
-And jokes burn.
+You don’t use $BRRR.
+You sacrifice it.
+
+⚠️ Disclaimers
+$BRRR is not a security
+
+It was never sold
+
+It does nothing
+
+It is not for profit
+
+This is satire, not finance
+
+If you’re here for utility, we wish you luck
+
+✊ Final Words
+They debase the dollar.
+We debase ourselves.
+
+They print like it’s working.
+We burn like it is.
+
+Print is the answer. Burn is the response.
+$BRRR
