@@ -6,12 +6,12 @@ Not a solution. A response.
 
 ## 🔥 Overview
 
-- Fixed supply: 35 trillion  
+- Fixed supply: 35 trillion plus 1 token
 - 10T burned at launch  
 - LP burned  
 - Mint authority disabled or multisig-controlled  
 - Lives on Solana  
-- Marches toward one remaining token — maybe
+- Marches toward one remaining token — maybe (its up to you)
 
 ## 🌐 Links
 
