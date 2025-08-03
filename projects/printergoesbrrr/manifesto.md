@@ -1,54 +1,57 @@
-📣 Manifesto
-BRRR: When the Printer Goes BRRR… We Burn
-They print. We burn.
+🔥 Manifesto: BRRRN
+When the Printer Goes BRRR… We Burn.
+They print illusions. We light matches.
+
 A trillion dollars used to mean something.
 Now it’s just Tuesday.
 
-So we created $BRRR: a token that embraces monetary absurdity by doing what no central bank dares — setting itself on fire.
+$BRRRN is a token born not from utility, but from resistance.
+A volatile protest against a system that inflates away the value of everything.
 
-They create value with a keystroke.
-We destroy it with a burn.
-They inflate. We incinerate.
-They pretend it's working.
-We pretend burning fixes it.
+They inherit power.
+We inherit the fire.
 
-🧨 What is $BRRR?
-A meme token on Solana with one purpose:
-to burn tokens every time fiat goes feral.
+🧨 What is $BRRRN?
+A meme token on Solana, designed with one purpose:
 
-We don’t offer utility.
-We offer ritualized destruction.
+To burn.
 
-Launched with no presale, no unlocks, no team, and no plan.
-Just 35 trillion BRRR — one for every U.S. dollar of federal debt.
-The burn has already begun.
+Not to fix the system.
+To expose it.
+To watch it vanish — one token at a time.
+
+$BRRRN has no utility.
+No plan.
+No function except destruction.
 
 🔥 The Burn Protocol
-If they print it, we burn it. If you burn it, we match it.
+If they print it, we burn it.
+If you burn it, we match it.
 
 Monthly Burns
-BRRR is burned each month based on fiscal and monetary absurdity
+Each month, $BRRRN is burned in response to fiscal and monetary absurdity.
 
-The more absurd, the more fire.
+New deficits
 
-Debt ceiling raised? Stimulus package announced? Deficit increases?
+Fresh stimulus
 
-🔥 You know what happens
+Another ceiling raised, another truth lowered
+
+The more they print, the more we burn.
 
 Community Burns
-You burn. The protocol burns 1:1 from the match pool
+Burn your $BRRRN.
+And we’ll burn with you.
+1:1 from the Match Pool — the only path toward the myth:
 
-This is the only path to reach 1 final token remaining
+A single remaining token.
 
+Will we reach it?
+We don’t know.
+But we march toward it anyway.
 
-💀 The Final Token
-Eventually, just one BRRR will remain.
-One token to symbolise the absurdity.
-
-Do you hold it?
-Do you burn it?
-What happens next?
-
+What it becomes — a relic, a weapon, a signal —
+That part’s not written yet.
 
 🪙 Tokenomics
 Allocation	Amount	Purpose
@@ -56,13 +59,13 @@ Total Supply	35T	Mirrors $35T U.S. federal debt
 Initial Burn	10T	Matches debt increase since 2020
 Burn Reserve	21.8T	For monthly & event-based burns
 Liquidity (burned)	1T	Permanent LP
-Airdrop	1T + 1 token	Community distribution + final BRRR
-Community Match Pool	1T	Matches user burns 1:1 — this is the path to 1 remaining token
+Airdrop	1T + 1	Community distribution + final $BRRRN
+Match Pool	1T	Matches user burns 1:1
 
 🔑 Core Mechanics
 No presale
 
-No VC
+No VCs
 
 No unlocks
 
@@ -80,39 +83,64 @@ Multisig only executes protocol burns
 
 No treasury. No control. No recovery.
 
-🌐 Why Solana?
-Gas costs so low, you’ll burn without thinking
+This isn’t a project.
+It’s a controlled demolition.
 
-Lightning-fast for degenerate rituals
+⚡️ Why Solana?
 
-Meme-aligned ecosystem
+Blazing fast for ritual burns
 
-Plug-and-play with Jupiter, Raydium, Phantom
+Penny-cheap for principled waste
 
-Also, launching this on Ethereum would’ve doubled the U.S. deficit.
+Meme-ready ecosystem
+
+Compatible with Raydium, Jupiter, Phantom
+
+And honestly, Ethereum couldn’t handle this much fire.
 
 🪞 Use Case
 None.
-There is no point. That is the point.
+And that’s the point.
 
-No yield. No staking. No value accrual.
-$BRRR exists purely to vanish on-chain — faster than your purchasing power.
+No staking. No value. No yield.
+$BRRRN exists purely to disappear — faster than trust in fiat.
 
-It’s fiscal fire as performance art.
+This is monetary protest disguised as memecoin.
+
 
 🧱 Ethos
 No governance
 
 No DAO
 
-No treasury proposals
+No roadmap
 
-No votes to ignore
+No proposals to ignore
 
-Just burns, memes, and the shared delusion that this means something.
+Just fire.
+And those foolish enough to believe in it.
 
-You don’t use $BRRR.
+You don’t use $BRRRN.
 You sacrifice it.
+
+⚠️ Disclaimers
+$BRRRN is not a security.
+It was never sold.
+It does nothing.
+It cannot be recovered.
+It is not advice.
+It is not for profit.
+This is not satire anymore.
+
+✊ Final Words
+They inflate.
+We burn.
+
+They pretend it's working.
+We pretend burning fixes it.
+
+This is not a solution.
+This is a response.
 
 ⚠️ Disclaimers
 $BRRR is not a security
@@ -126,13 +154,6 @@ It is not for profit
 This is satire, not finance
 
 If you’re here for utility, we wish you luck
-
-✊ Final Words
-They debase the dollar.
-We debase ourselves.
-
-They print like it’s working.
-We burn like it is.
 
 Print is the answer. Burn is the response.
 $BRRR
