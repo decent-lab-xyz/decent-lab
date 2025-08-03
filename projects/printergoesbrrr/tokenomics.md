@@ -1,64 +1,78 @@
-# $BRRR Tokenomics
+# $BRRRN Tokenomics
 
-Total Supply: **35,000,000,000,000** BRRR (35T)
+**Total Supply:** 35,000,000,000,001 BRRRN (35T + 1)
 
-This supply mirrors the U.S. federal debt, which crossed $35 trillion in 2024 and is projected to exceed $55 trillion by 2035.  
-Since 2020, debt has already increased by over $10 trillion — and BRRR reflects that reality by burning supply in response.
+$BRRRN mirrors the absurdity it mocks.
 
----
+The U.S. federal debt passed $35 trillion in 2024 and continues to rise.  
+So we matched it — and began to burn it.
 
-## 🔥 Launch & Burn Logic
-
-- **Initial Burn**: 10T BRRR burned at launch  
-  → Matches the debt added since 2020  
-- **Monthly Burn**: ~158B BRRR  
-  → Matches the $1.9T annual U.S. deficit (divided by 12)  
-- **Event Burns**: Bonus burns triggered by:
-  - CBO upward revisions
-  - New stimulus spending
-  - Debt ceiling lifts
-  - Fed speeches or clownery
-
+There’s no promise here. No fix.  
+Just a token that disappears in protest.
 
 ---
 
-## 🔢 Allocation Breakdown
+## 🔥 Burn Protocol
 
-| Allocation          | Amount   | Notes                                               |
-|---------------------|----------|-----------------------------------------------------|
-| 🔥 Burned at Launch | 10T      | Symbolic match to 2020–2024 debt growth            |
-| 🔥 Burn Reserve     | 21.8T    | Monthly burns and symbolic one-offs                |
-| 🔁 Community Match  | 1.1T     | Matches all voluntary burns from airdropped tokens |
-| 🌊 LP Burn          | 1T       | Seeded and burned — no liquidity control remains   |
-| 🎯 Airdrop + 1      | 1T + 1   | Distributed to meme-aligned holders                |
-| 🧳 Treasury Reserve | 0.1T     | For ETH/Base/CEX future use                        |
+- **Initial Burn:** 10T — erased at launch to match 2020–2024 debt growth  
+- **Monthly Burn:** ~158B — tied to the $1.9T annual deficit, divided monthly  
+- **Event Burns:** Triggered by fiscal theatre:
+  - New deficits  
+  - Debt ceiling lifts  
+  - Emergency stimulus  
+  - CBO revisions  
+  - Fed speeches that dare to pretend
 
-> No team tokens. No unlocks. No tax.  
+---
+
+## 🔢 Allocation
+
+| Allocation           | Amount     | Notes                                                   |
+|----------------------|------------|----------------------------------------------------------|
+| 🔥 Burned at Launch  | 10T        | Symbolic erasure of pandemic-era debt expansion         |
+| 🎯 Airdrop           | 10T + 1    | Fully distributed — including the mythic final token     |
+| 🔁 Community Match   | 10T        | 1:1 match for every burned airdrop token                 |
+| 🔥 Burn Reserve      | 3.8T       | Used for monthly & narrative-driven protocol burns       |
+| 🌊 LP Burn           | 1T         | Seeded with SOL and burned — no treasury, no control     |
+
+> No team tokens. No unlocks.  
+> No tax. No treasury. No recovery.  
 > Minting disabled. Contract renounced.
 
 ---
 
-## 📉 Burn Design Philosophy
+## 📉 Burn Philosophy
 
-- All burns are on-chain and traceable
-- Burns are multisig-executed — no voting, no delays
-- Community burns are matched 1-for-1 from the match pool
+Burns are permanent.  
+Tracked on-chain.  
+Executed without ceremony — just a match and a wallet.
+
+Voluntary community burns are matched 1:1 from the pool.  
+Protocol burns happen monthly — or whenever reality demands it.
+
+Everything is designed to disappear.
 
 ---
 
 ## 🧨 The Endgame
 
-Once all matching is complete, **only 1 BRRR** will remain.  
-A lone meme. A digital protest artifact. A timestamped rejection of debt.
+No token is held back.  
+No vault. No script.
+
+All 10T + 1 were released.  
+And if just one remains, it won't be because we planned it.  
+It’ll be because **the community made it happen**.
 
 > Will you hold it?  
-> Or will you burn it?
+> Or will you burn the last thing left?
 
----
+Some say there are forces resisting the system —  
+Fighting not to reform it, but to expose it.
 
-## 📎 References
+> 🔥 Join them.
 
-- U.S. Federal Debt: [$35T+ in 2024](https://www.visualcapitalist.com/u-s-national-debt-reaches-35-trillion/)
-- CBO Projection: [$55T by 2035](https://www.cbo.gov/publication/59520)
-- U.S. Deficit: [$1.9T in FY24](https://www.gao.gov/products/gao-25-107138)
+
+- [U.S. Debt Hits $35T](https://www.visualcapitalist.com/u-s-national-debt-reaches-35-trillion/)  
+- [CBO: $55T by 2035](https://www.cbo.gov/publication/59520)  
+- [Deficit: $1.9T in FY24](https://www.gao.gov/products/gao-25-107138)
 
