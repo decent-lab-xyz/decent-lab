@@ -1,4 +1,4 @@
-# $BRRRN — Printer Goes Brrr (and Then Burns)
+# $BRRRN
 
 $BRRRN is a meme-native, deflationary protest token.  
 It wasn't designed to pump — it was designed to disappear.  
