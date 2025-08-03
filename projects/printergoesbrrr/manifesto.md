@@ -1,160 +1,169 @@
-🔥 Manifesto: BRRRN
+# 🔥 Manifesto: $BRRRN
 
-When the Printer Goes BRRR… We Burn.
+When the printer goes BRRR... we burn.  
 They print illusions. We light matches.
 
-A trillion dollars used to mean something.
+A trillion dollars used to mean something.  
 Now it’s just Tuesday.
 
-$BRRRN is a token born not from utility, but from resistance.
-A volatile protest against a system that inflates away the value of everything.
+$BRRRN is not a token of utility.  
+It is a protest in code — volatile, unnecessary, and intentionally wasteful.
 
-They inherit power.
+They inherit power.  
 We inherit the fire.
 
-🧨 What is $BRRRN?
-A meme token on Solana, designed with one purpose:
+---
 
-To burn.
+## 🧨 What is $BRRRN?
 
-Not to fix the system.
-To expose it.
-To watch it vanish — one token at a time.
+$BRRRN is a meme token on Solana.  
+It was created to burn — nothing more.
 
-$BRRRN has no utility.
-No plan.
-No function except destruction.
+Not to fix the system.  
+To expose it.  
+To watch it vanish, one transaction at a time.
 
-🔥 The Burn Protocol
-If they print it, we burn it.
-If you burn it, we match it.
+There is no staking. No governance. No value accrual.  
+There is no promise — only the disappearance.
 
-Monthly Burns
-Each month, $BRRRN is burned in response to fiscal and monetary absurdity.
+---
 
-New deficits
+## 🔥 The Burn Protocol
 
-Fresh stimulus
+> If they print it, we burn it.  
+> If you burn it, we match it.
 
-Another ceiling raised, another truth lowered
+### Monthly Burns  
+$BRRRN is burned every month in response to fiscal theatre:
 
-The more they print, the more we burn.
+- New deficits  
+- Debt ceiling lifts  
+- Stimulus bills  
+- CBO projections  
+- Fed speeches that pretend everything's fine
 
-Community Burns
-Burn your $BRRRN.
-And we’ll burn with you.
-1:1 from the Match Pool — the only path toward the myth:
+The more absurd it gets, the more we burn.
 
-A single remaining token.
+### Community Burns  
+You burn. We match. 1:1 from the pool.
 
-Will we reach it?
-We don’t know.
-But we march toward it anyway.
+Every airdropped token (except one) can be burned.  
+Every burn is acknowledged by the protocol.
 
-What it becomes — a relic, a weapon, a signal —
-That part’s not written yet.
+---
 
-🪙 Tokenomics
-Allocation	Amount	Purpose
-Total Supply	35T	Mirrors $35T U.S. federal debt
-Initial Burn	10T	Matches debt increase since 2020
-Burn Reserve	21.8T	For monthly & event-based burns
-Liquidity (burned)	1T	Permanent LP
-Airdrop	1T + 1	Community distribution + final $BRRRN
-Match Pool	1T	Matches user burns 1:1
+## 🧮 The Tokenomics
 
-🔑 Core Mechanics
-No presale
+| Allocation           | Amount     | Notes                                                  |
+|----------------------|------------|----------------------------------------------------------|
+| 🔥 Burned at Launch  | 10T        | Matches 2020–2024 U.S. debt expansion                   |
+| 🎯 Airdrop           | 10T + 1    | Fully distributed — including the mythic final token     |
+| 🔁 Community Match   | 10T        | 1:1 match for voluntary burns                           |
+| 🔥 Burn Reserve      | 3.8T       | Monthly + protocol-led burns                            |
+| 🌊 LP Burn           | 1T         | Paired with SOL and burned — no treasury, no control    |
 
-No VCs
+> No team tokens. No unlocks.  
+> No tax. No treasury. No recovery.  
+> Minting disabled. Contract renounced.
 
-No unlocks
+---
 
-No team tokens
+## 🧨 The Endgame
 
-0% tax
+There is no vault. No script.  
+All 10T + 1 tokens were set loose.
 
-Minting disabled
+If one token remains, it won’t be because we held it.  
+It’ll be because the community **made it happen**.
 
-Contract renounced
+> Will you hold it?  
+> Or will you burn the last thing left?
 
-LP burned
+Some say there are forces resisting the system —  
+Fighting not to fix it, but to reveal it.
 
-Multisig only executes protocol burns
+> 🔥 Join them.
 
-No treasury. No control. No recovery.
+---
 
-This isn’t a project.
+## 🔑 Core Mechanics
+
+- No presale  
+- No unlocks  
+- No team tokens  
+- No tax  
+- No treasury  
+- LP burned  
+- Minting disabled  
+- Contract renounced  
+- Multisig used only for protocol burns
+
+This isn’t a project.  
 It’s a controlled demolition.
 
-⚡️ Why Solana?
+---
 
-Blazing fast for ritual burns
+## ⚡️ Why Solana?
 
-Penny-cheap for principled waste
+- Fast enough to burn without thinking  
+- Cheap enough to waste with principle  
+- Meme-aligned  
+- Compatible with Jupiter, Raydium, Phantom
 
-Meme-ready ecosystem
+Also, Ethereum couldn’t handle this much fire.
 
-Compatible with Raydium, Jupiter, Phantom
+---
 
-And honestly, Ethereum couldn’t handle this much fire.
+## 🪞 Use Case
 
-🪞 Use Case
-None.
+None.  
 And that’s the point.
 
-No staking. No value. No yield.
-$BRRRN exists purely to disappear — faster than trust in fiat.
+No yield. No staking. No function.  
+$BRRRN exists purely to disappear — faster than your purchasing power.
 
 This is monetary protest disguised as memecoin.
 
+---
 
-🧱 Ethos
-No governance
+## 🧱 Ethos
 
-No DAO
+- No governance  
+- No DAO  
+- No proposals  
+- No votes  
+- No value  
+- No future
 
-No roadmap
+Just fire — and those foolish enough to follow it.
 
-No proposals to ignore
-
-Just fire.
-And those foolish enough to believe in it.
-
-You don’t use $BRRRN.
+You don’t use $BRRRN.  
 You sacrifice it.
 
-⚠️ Disclaimers
-$BRRRN is not a security.
-It was never sold.
-It does nothing.
-It cannot be recovered.
-It is not advice.
-It is not for profit.
+---
+
+## ⚠️ Disclaimers
+
+$BRRRN is not a security.  
+It was never sold.  
+It does nothing.  
+It cannot be recovered.  
+This is not advice.  
+It is not for profit.  
 This is not satire anymore.
 
-✊ Final Words
-They inflate.
+---
+
+## ✊ Final Words
+
+They inflate.  
 We burn.
 
-They pretend it's working.
+They pretend it’s working.  
 We pretend burning fixes it.
 
-This is not a solution.
+This is not a solution.  
 This is a response.
 
-⚠️ Disclaimers
-$BRRR is not a security
+**$BRRRN**
 
-It was never sold
-
-It does nothing
-
-It is not for profit
-
-This is satire, not finance
-
-If you’re here for utility, we wish you luck
-
-Print is the answer. Burn is the response.
-$BRRR
