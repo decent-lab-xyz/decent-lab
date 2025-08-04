@@ -16,9 +16,9 @@ Not a solution. A response.
 ## 🌐 Links
 
 - [Site](https://brrrn.xyz)
-- [Studio](https://github.com/decent-labs-xyz/decent-lab)
+- [Studio](https://decent-lab.xyz)
 - [Burn log](./burn-log.md)
 - [Safe](https://safe.global/eth:0x853d73E33184CFf25d6Fc6ceb7AeF0B6E7Ab59C3)
 
 > Absurdity is the enemy.  
-> The more absurd it gets, the more we burn.
+
